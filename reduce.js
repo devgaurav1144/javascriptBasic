@@ -8,8 +8,6 @@
 
 // You also gave an initial value of 3
 
-//  initial value must be required because first time accumulator value intialized with initial value.
-
 const numlist = [1,2,3];
 
 const result = numlist.reduce((accum,curr)=>{
