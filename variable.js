@@ -5,3 +5,5 @@ const email = "test@webkul.com"
 accountCity = "Lucknow"
 
 console.table([empname,mobile,email,accountCity])
+
+
