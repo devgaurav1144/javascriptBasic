@@ -23,4 +23,4 @@ const funValue = function(){
     console.log("Hello World")
 }
 
-console.log(typeof funValue) // function or object function
+console.log(typeof funValue) // function or object functiongit 
